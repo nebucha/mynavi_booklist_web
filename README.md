@@ -1,4 +1,6 @@
-# booklist_web
+# mynavi_booklist_web
+
+This is a repository for the sample projects of https://news.mynavi.jp/series/azureapp.
 
 ## Project setup
 ```
